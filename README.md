@@ -126,17 +126,33 @@
 
 ---
 
-## 📜 Fun Facts  
-- 🐞 Found a division-by-zero bug via automation test  
-- 🌌 Love stargazing & long-exposure photography  
-- ☕ Coffee fuels my code & creativity  
+### 📊 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dumindu-Dulanjaya&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumindu-Dulanjaya&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dumindu-Dulanjaya&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dumindu-Dulanjaya&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF"/>
+</div>
 
 ---
 
+### 🏆 Achievements & Recognition
 <div align="center">
-  
-💡 *Thanks for stopping by — let’s build something amazing together!*  
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Dumindu-Dulanjaya&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 </div>
+
+---
+
+### 🎯 Current Focus (Visual)
+```mermaid
+graph LR
+    A[🤖 Generative AI] --> B[🐍 Python & Java Development]
+    B --> C[☁️ Cloud Native & DevOps]
+    C --> D[📚 Knowledge Sharing & Automation]
+    D --> A
