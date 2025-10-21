@@ -46,8 +46,6 @@
 |:--|:--|
 | 💬 Programming Languages | Java, Python, JavaScript |
 | 🌐 Web / Back-end | Spring Boot, REST APIs, Node.js |
-| 🧪 Test Automation | Selenium, TestNG, PyTest, UI automation |
-| ☁️ Cloud / DevOps | Jenkins, Docker, GitHub Actions, AWS (EC2, S3, IAM) |
 | 🗃️ Databases | MySQL, PostgreSQL, MongoDB |
 | 🎨 Front-end | HTML5, CSS3, React |
 | 🔄 Version Control | Git, GitHub |
