@@ -11,7 +11,7 @@
 ---
 
 # 👋 Hi there! I’m **Dumindu Dulanjaya**
-### 💻 Software Engineer • ⚙️ Automation Enthusiast • ☁️ Cloud Explorer • 📚 Lifelong Learner
+### 💻 Software Engineer • ⚙️ Automation Enthusiast • ☁️ Fullstack Developer • 📚 Lifelong Learner
 
 ---
 
