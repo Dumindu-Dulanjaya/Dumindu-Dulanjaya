@@ -67,14 +67,6 @@
 
 ---
 
-## ⚙️ Workflow & Approach
-- Prototype fast → Test → Automate 🔄  
-- Follow **clean code principles** & **CI/CD pipelines**  
-- Commit clearly & document everything ✍️  
-- Collaboration-first mindset 💪  
-
----
-
 ## 🌍 Connect With Me  
 <div align="center">
   <a href="https://github.com/Dumindu-Dulanjaya"><img src="https://img.shields.io/badge/GitHub-Dumindu--Dulanjaya-black?style=for-the-badge&logo=github" /></a>
@@ -146,13 +138,3 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dumindu-Dulanjaya&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 </div>
-
----
-
-### 🎯 Current Focus (Visual)
-```mermaid
-graph LR
-    A[🤖 Generative AI] --> B[🐍 Python & Java Development]
-    B --> C[☁️ Cloud Native & DevOps]
-    C --> D[📚 Knowledge Sharing & Automation]
-    D --> A
