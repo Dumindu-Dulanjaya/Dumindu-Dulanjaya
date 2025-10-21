@@ -1,6 +1,6 @@
 <!-- Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Dumindu+Dulanjaya;Software+Engineer+%7C+Automation+Enthusiast;Lifelong+Learner+%7C+Fullstack Developer;Building+Smarter+Systems+with+Code+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Dumindu+Dulanjaya;Software+Engineer+%7C+Automation+Enthusiast;Lifelong+Learner+%7C+Fullstack+Developer;Building+Smarter+Systems+with+Code+%26+AI" alt="Typing SVG" />
 </div>
 
 <!-- Banner -->
@@ -117,8 +117,12 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dumindu-Dulanjaya&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" width="100%"/> <h3>🚀 Let’s build something amazing together!</h3> <img src="https://komarev.com/ghpvc/?username=Shishir-Srivastav&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
 
-⭐ Star my repositories if you find them helpful!
-
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <h3>🚀 Let’s build something amazing together!</h3>
+  <img src="https://komarev.com/ghpvc/?username=Dumindu-Dulanjaya&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
+  <br><br>
+  ⭐ Star my repositories if you find them helpful!
 </div>
