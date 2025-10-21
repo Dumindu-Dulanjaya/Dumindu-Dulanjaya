@@ -69,7 +69,7 @@
 <div align="center">
   <a href="https://github.com/Dumindu-Dulanjaya"><img src="https://img.shields.io/badge/GitHub-Dumindu--Dulanjaya-black?style=for-the-badge&logo=github" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/https://new-react-portfolio-rho.vercel.app/" /></a>
+  <a href="https://new-react-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge&logo=firefox" /></a>
 </div>
 
 ---
