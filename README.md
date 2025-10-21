@@ -35,7 +35,7 @@
 - 🌱 Learning **DevOps**, **Cloud auto-scaling**, & **Container orchestration**.  
 - 👯 Open to collaborate on **open-source automation** & **cloud projects**.  
 - 🤔 Exploring **ML-based predictive QA** & **smart testing tools**.  
-- 📫 Reach me: [dumindu.dulanjaya@example.com](mailto:dulanjaya420@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dumindu-dulanjaya-486745305/)  
+- 📫 Reach me: [dulanjaya420@gmail.com](mailto:dulanjaya420@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dumindu-dulanjaya-486745305/)  
 - ☕ Fun fact: Debugging + Coffee = Infinite Productivity 🚀  
 
 ---
