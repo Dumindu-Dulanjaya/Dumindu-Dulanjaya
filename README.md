@@ -1,3 +1,39 @@
+<!-- Typing Header -->
+<div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Dumindu+Dulanjaya;Software+Engineer+%7C+Automation+Enthusiast;Lifelong+Learner+%7C+Cloud+Explorer;Building+Smarter+Systems+with+Code+%26+AI" alt="Typing SVG" />
+
+</div>
+
+<!-- Banner -->
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+<div align="center">
+
+  <p>
+    <img src="https://img.shields.io/badge/Role-Software%20Engineer-blue?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Focus-Automation%20%7C%20Cloud%20%7C%20DevOps-orange?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Mindset-Lifelong%20Learner%20%7C%20Problem%20Solver-brightgreen?style=for-the-badge&logo=lightbulb&logoColor=white"/>
+  </p>
+
+</div>
+
+<div align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
 # Hi there 👋 I’m **Dumindu Dulanjaya**  
 **Software Engineer • Automation Enthusiast • Lifelong Learner**
 
@@ -28,63 +64,57 @@
 ---
 
 ## 📂 Selected Projects  
-Here are a few of the repositories I’m most proud of:
 
-- **Library‑Management‑System** – A Java-based system I developed to manage book loans, returns, user roles, reporting and notifications.  
-- **Web‑Conference‑Management‑System** – Web app using CSS + Java tech stack to administer online conferences: agendas, speakers, registrations.  
-- **Calculator** – A simple and user-friendly desktop calculator application built using Java, supporting addition, subtraction, multiplication and division.  
-- **ui‑test‑automation** – A Python-based automation framework that I contributed to / forked, focused on UI-test scripting, reporting and CI integration.  
-- **Weather‑App** – A JavaScript demo project fetching external APIs, rendering weather data dynamically, and displaying responsive UI.
-
-*(Each project resides in this GitHub profile; browse the “Repositories” tab for full details, source code & documentation.)*
+- **Library-Management-System** – Java-based system for book loans, returns, reporting and notifications.  
+- **Web-Conference-Management-System** – Web app using Java & CSS for conference management.  
+- **Calculator** – Java desktop calculator (add, subtract, multiply, divide).  
+- **ui-test-automation** – Python-based UI-test automation framework with CI integration.  
+- **Weather-App** – JavaScript API-based responsive weather app.
 
 ---
 
 ## 🧩 My Workflow & Approach  
-- I typically **prototype quickly**: spin up a minimal feature, test it manually, then automate it.  
-- I believe in **clean code**, automated tests and continuous integration — bugs found in production are **my issue** too.  
-- I love **learning and documenting**: if I discover a useful pattern (say for test-data setup in Selenium) I’ll write a README-blog in the repo or add a wiki.  
-- I care about **collaboration**: meaningful commits, descriptive PRs, and shared reviews make the codebase stronger.
+- Prototype fast → test → automate.  
+- Clean code, CI, and self-accountability for bugs.  
+- Love documenting learnings (README/blogs).  
+- Collaboration-first: clear commits & PRs.
 
 ---
 
 ## 🌍 Where You’ll Find Me  
 - **GitHub**: [github.com/Dumindu-Dulanjaya](https://github.com/Dumindu-Dulanjaya)  
 - **LinkedIn**: (Insert your LinkedIn URL)  
-- **Blog / Writing**: (If you have one)  
-  
-Feel free to reach out if you’d like to connect, brainstorm automation frameworks, collaborate on an open-source tool or simply chat code.
+- **Blog**: (If you have one)
 
 ---
 
 ## 📦 What I’m Currently Working On  
-- Expanding the UI automation framework to support mobile hybrid apps.  
-- Integrating machine-learning models to predict test failures (yes — predictive QA!).  
-- Migrating one of the back-end systems to a microservices architecture on AWS.
+- Extending UI automation to mobile hybrid apps.  
+- Predictive QA using ML models.  
+- Migrating systems to AWS microservices.
 
 ---
 
-## 🏆 Some Personal Wins & Highlights  
-- Successfully built and deployed a full Java web-app under tight deadline.  
-- Automated 70%+ of regression tests across a major UI module.  
-- Contributed to an open-source test-automation framework and improved reporting clarity.
+## 🏆 Some Personal Wins  
+- Built & deployed a full Java web-app under tight deadlines.  
+- Automated 70%+ of regression tests for a UI module.  
+- Contributed to open-source automation tools.
 
 ---
 
 ## 🤝 Let’s Collaborate  
 Open to:  
-- Joint open-source projects (test tooling, developer utilities, internal platforms)  
-- Mentoring / Learning partnerships (especially Java + automation)  
-- Contract / part-time engagement in automation & back-end engineering  
+- Open-source test tooling  
+- Mentoring or learning together  
+- Automation or back-end freelance work
 
 ---
 
 ## 📜 Fun Facts  
-- I once wrote a “break the calculator” test script that found a division-by-zero bug in seconds.  
-- Outside work I’m a fan of board-games, hiking, and capturing long exposure photos of stars.  
-- I believe coffee tastes better when debugging is going well ☕.
+- Found a division-by-zero bug using an automation test.  
+- Love stargazing & long-exposure photography 🌌  
+- Coffee + Debugging = Productivity ☕
 
 ---
 
-Thank you for stopping by — I hope you find something interesting or maybe even inspiring in one o
-
+💡 *Thanks for visiting my profile — let’s build something great together!*  
