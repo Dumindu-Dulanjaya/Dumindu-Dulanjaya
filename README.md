@@ -84,31 +84,6 @@
 
 ---
 
-## 🎯 What I Do
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/python.png"/>
-        <h3>🔧 Development</h3>
-        <p>Crafting robust Python & Java applications with clean, maintainable code</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/artificial-intelligence.png"/>
-        <h3>🤖 AI Innovation</h3>
-        <p>Exploring AI-powered automation & Generative AI applications</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/96/youtube.png"/>
-        <h3>📚 Knowledge Sharing</h3>
-        <p>Creating educational content on YouTube & social platforms</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🛠️ Tech Arsenal
 <div align="center">
   💻 **Languages & Frameworks** – Java, Python, JavaScript, Spring Boot, React  
