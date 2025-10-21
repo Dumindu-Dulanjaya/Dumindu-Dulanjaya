@@ -117,3 +117,8 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dumindu-Dulanjaya&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" width="100%"/> <h3>🚀 Let’s build something amazing together!</h3> <img src="https://komarev.com/ghpvc/?username=Shishir-Srivastav&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
+
+⭐ Star my repositories if you find them helpful!
+
+</div>
