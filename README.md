@@ -35,7 +35,7 @@
 - 🌱 Learning **DevOps**, **Cloud auto-scaling**, & **Container orchestration**.  
 - 👯 Open to collaborate on **open-source automation** & **cloud projects**.  
 - 🤔 Exploring **ML-based predictive QA** & **smart testing tools**.  
-- 📫 Reach me: [dumindu.dulanjaya@example.com](mailto:dumindu.dulanjaya@example.com) | [LinkedIn](#)  
+- 📫 Reach me: [dumindu.dulanjaya@example.com](mailto:dumindu.dulanjaya@example.com) | [LinkedIn](https://www.linkedin.com/in/dumindu-dulanjaya-486745305/)  
 - ☕ Fun fact: Debugging + Coffee = Infinite Productivity 🚀  
 
 ---
@@ -67,9 +67,15 @@
 
 ## 🌍 Connect With Me  
 <div align="center">
-  <a href="https://github.com/Dumindu-Dulanjaya"><img src="https://img.shields.io/badge/GitHub-Dumindu--Dulanjaya-black?style=for-the-badge&logo=github" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/dumindu-dulanjaya-486745305/" /></a>
-  <a href="https://new-react-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge&logo=firefox" /></a>
+  <a href="https://github.com/Dumindu-Dulanjaya">
+    <img src="https://img.shields.io/badge/GitHub-Dumindu--Dulanjaya-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/dumindu-dulanjaya-486745305/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dumindu%20Dulanjaya-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://new-react-portfolio-rho.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge&logo=firefox" />
+  </a>
 </div>
 
 ---
