@@ -112,7 +112,6 @@
 
 ---
 
-### 🏆 Achievements & Recognition
 
 
 <!-- Footer -->
