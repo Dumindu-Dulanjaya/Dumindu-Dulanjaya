@@ -19,7 +19,6 @@
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/Role-Software%20Engineer-blue?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Focus-Automation%20%7C%20Cloud%20%7C%20DevOps-orange?style=for-the-badge&logo=cloudflare&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mindset-Lifelong%20Learner%20%7C%20Problem%20Solver-brightgreen?style=for-the-badge&logo=lightbulb&logoColor=white"/>
   </p>
 </div>
